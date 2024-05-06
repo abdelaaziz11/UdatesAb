@@ -1,1 +1,1 @@
-# Hi there, Welcome to my GitHup Repo
+# Hi there 👋, Welcome to my GitHup Repo
