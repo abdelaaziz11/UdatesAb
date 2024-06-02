@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Build my portfolio project**
 
-- 🌱 I’m currently learning **JavaScript & how to build portfolio project**
+- 🌱 I’m currently learning **JavaScript & How to build portfolio project**
 
 - 👯 I’m looking to collaborate on **portfolio project**
 
