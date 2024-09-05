@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Front End & React.js**
 
-- 🌱 I’m currently learning **JavaScript & How to build portfolio project & How use IA for help Us**
+- 🌱 I’m currently learning **React.js**
 
-- 👯 I’m looking to collaborate on **portfolio project**
+- 👯 I’m looking to collaborate on **webstack portfolio project**
 
 - 📫 How to reach me **abdelkhouda055@gmail.com**
 
