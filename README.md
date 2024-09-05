@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/abdelkhouda" target="blank"><img src="https://img.shields.io/twitter/follow/abdelkhouda?logo=twitter&style=for-the-badge" alt="abdelkhouda" /></a> </p>
 
 
-- 🔭 I’m currently working on **Build my portfolio project & AICE**
+- 🔭 I’m currently working on **Front End & React.js**
 
 - 🌱 I’m currently learning **JavaScript & How to build portfolio project & How use IA for help Us**
 
