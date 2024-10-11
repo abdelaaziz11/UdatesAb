@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **React.js and Redux.js**
 
-- 👯 I’m looking to collaborate on **webstack portfolio project**
+- 👯 I’m looking to collaborate on **Webstack portfolio project**
 
 - 👨‍💻 All of my projects are available at [https://abdelkhouda.netlify.app/](https://abdelkhouda.netlify.app/)
 
