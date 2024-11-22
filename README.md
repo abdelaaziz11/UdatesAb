@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Front End projects & React JS**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React.js & Redux.js**
 
 - 👯 I’m looking to collaborate on **Webstack portfolio project**
 
